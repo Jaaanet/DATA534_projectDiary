@@ -22,9 +22,9 @@ of my coding today, I took screenshot of my failed git push and the successed pa
 
 ### Screenshots / Evidence
 **Image1**
-![failed](img/failed.png)\
+![failed](260128/failed.png)\
 **Image2**
-![success1](img/success1.png)\
+![success1](260128/success1.png)\
 **Image3**
-![success2](img/success2.png)\
+![success2](260128/success2.png)\
 
